@@ -15,7 +15,7 @@ name                     : &name "Sue Min (Jasmine) Cho"
 description              : &description "Ph.D. Student at Johns Hopkins University"
 url                      : https://jasminecho1008.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "https://github.com/jasminecho1008/jasminecho1008.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,7 +25,7 @@ author:
   avatar           : "SueMinCho.JPG"
   name             : "Sue Min (Jasmine) Cho"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Student at Johns Hopkins University"
+  bio              : "4th Year Ph.D. Student"
   location         : "Baltimore, MD"
   employer         : "Johns Hopkins University"
   uri              : # URL
