@@ -15,9 +15,9 @@ author_profile: true
 
 ## Invited Talk @ WSE–SOM Research Retreat 2024
 
-🏆 Excellence in Research Trainee Award – Whiting School of Engineering  
-📍 Johns Hopkins University  
+📍 Baltimore, Maryland  
 🎙️ _Human-centered assurance in technology-assisted surgery_  
+🏆 Excellence in Research Trainee Award – Whiting School of Engineering  
 🔗 [Read more](https://medicine-matters.blogs.hopkinsmedicine.org/2024/02/dom-wse-research-retreat-recap/)  
 <img src="/images/wsesom2024.jpg" alt="Whiting School Award 2024" width="600"/>
 
