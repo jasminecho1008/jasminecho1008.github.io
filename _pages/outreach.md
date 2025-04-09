@@ -11,7 +11,7 @@ author_profile: true
 
 <!-- 🔗 [Read more](LINK_TO_SHOWCASE_PAGE) -->
 
-## <img src="/images/alumni_weekend_showcase2025.png" alt="Alumni Weekend Computer Science Showcase" width="600"/>
+## <img src="/images/alumni_weekend_showcase2025.PNG" alt="Alumni Weekend Computer Science Showcase" width="600"/>
 
 ---
 
