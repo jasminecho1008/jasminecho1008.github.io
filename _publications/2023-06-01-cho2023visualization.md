@@ -3,9 +3,7 @@ title: "Visualization in 2D/3D registration matters for assuring technology-assi
 collection: publications
 category: manuscripts
 permalink: /publication/2023-06-01-cho2023visualization
-excerpt: 'Special Issue: Information Processing in Computer-Assisted Interventions (IPCAI) 2023.
-Audience vote for long oral presentation at IPCAI’23.
-Finalist, Best Paper Award at IPCAI’23.'
+excerpt: "Finalist, Best Paper Award at IPCAI’23."
 date: 2023-06-01
 venue: "International Journal of Computer Assisted Radiology and Surgery"
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
