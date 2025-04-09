@@ -27,5 +27,6 @@ author_profile: true
 
 📍 Munich, Germany  
 🎙️ _Visualization in 2D/3D registration matters for assuring technology-assisted image-guided surgery_  
-🏅 Audience vote for long oral presentation  
-<img src="/images/ipcai2023.jpg" alt="IPCAI 2023 Presentation" width="600"/>
+🏅 Audience vote for long oral presentation
+
+<!-- <img src="/images/ipcai2023.jpg" alt="IPCAI 2023 Presentation" width="600"/> -->
