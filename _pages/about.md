@@ -2,6 +2,7 @@
 permalink: /
 title: "About Me"
 author_profile: true
+description: "Ph.D. student at Johns Hopkins University"
 redirect_from:
   - /about/
   - /about.html
