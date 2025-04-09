@@ -7,7 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Computer Science at Johns Hopkins University, where I previously earned my B.S. and M.S.E. degrees in Biomedical Engineering. I am advised by Professor Mathias Unberath and Professor Russell H. Taylor. My research aims to enhance human-machine synergy in healthcare by integrating cognitive psychology, computer vision, and human-machine interaction. I develop solutions guided by human-centered design and assurance principles to ensure safe and effective collaboration between humans and advanced technologies.
+I am a Ph.D. student in the [Department of Computer Science](https://www.cs.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/), where I also earned my B.S. and M.S.E. degrees in [Biomedical Engineering](https://www.bme.jhu.edu/). My research aims to enhance human-machine synergy in healthcare by integrating cognitive psychology, computer vision, and human-machine interaction. I develop solutions guided by human-centered design and assurance principles to ensure safe and effective collaboration between humans and advanced technologies.
+
+I am a member of the [ARCADE](https://arcade.cs.jhu.edu/) research group, led by [Professor Mathias Unberath](https://mathiasunberath.github.io/), and the [CIIS](https://ciis.lcsr.jhu.edu/doku.php?id=start) research group, led by [Professor Russell H. Taylor](https://www.cs.jhu.edu/~rht/).
+
+I have published peer-reviewed journal and conference papers at international venues, including IPCAI, MICCAI, HRI, and Computers in Biology and
+Medicine. For more details, please see my [CV](https://suemincho.com/files/CV_SueMinCho.pdf).
+
+Since 2020, I have served every year as a teaching assistant or course assistant for [Computer-Integrated Surgery I (CIS I)](https://ciis.lcsr.jhu.edu/doku.php?id=courses:455-655:455-655) and [Computer-Integrated Surgery II (CIS II)](https://ciis.lcsr.jhu.edu/doku.php?id=courses:456).
+
+I am committed to fostering inclusive environments and regularly engage in community outreach that welcomes people of all ages and backgrounds.
+
+As a member of the ARCADE and ciis labs, I have directly mentored graduate, undergraduate, and highschool students in research. If you are interested in working with me, please feel free to reach out via email—I’d love to hear from you!
+
+Most of my time is spent thinking about what the future of healthcare might look like—and musing about human nature and behavior.
+
+When I’m not in research-mode, I find joy in cooking, baking, and painting.
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 

@@ -7,7 +7,7 @@ author_profile: true
 
 ## JHU Alumni Weekend – Visual/Interactive Research Showcase 2025
 
-📍 Department of Computer Science, Johns Hopkins University
+📍 Johns Hopkins University, Baltimore, MD
 
 <!-- 🔗 [Read more](LINK_TO_SHOWCASE_PAGE) -->
 
