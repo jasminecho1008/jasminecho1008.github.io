@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the [Department of Computer Science](https://www.cs.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/), where I also earned my B.S. and M.S.E. degrees in [Biomedical Engineering](https://www.bme.jhu.edu/). My research is at the intersection of cognitive psychology, computer vision, and human-machine interaction, with the goal of enhancing human-machine synergy in healthcare. Guided by human-centered design and assurance principles, I aim to develop solutions that foster safe and effective collaboration between humans and advanced technologies.
+I am a Ph.D. student in the [Department of Computer Science](https://www.cs.jhu.edu/) at [Johns Hopkins University](https://www.jhu.edu/), where I also earned my B.S. and M.S.E. degrees in [Biomedical Engineering](https://www.bme.jhu.edu/). My research is at the intersection of cognitive psychology, computer vision, and human-machine interaction, with the goal of advancing human-machine synergy in healthcare. Guided by human-centered design and assurance principles, I aim to develop solutions that foster safe and effective collaboration between humans and advanced technologies.
 
 I am a member of the [ARCADE](https://arcade.cs.jhu.edu/) research group, led by Professor [Mathias Unberath](https://mathiasunberath.github.io/), and the [ciis](https://ciis.lcsr.jhu.edu/doku.php?id=start) research group, led by Professor [Russell H. Taylor](https://www.cs.jhu.edu/~rht/).
 
