@@ -5,6 +5,15 @@ permalink: /talks/
 author_profile: true
 ---
 
+## Data Science and AI Institute (DSAI) End of Semester Social 2025
+
+📍 Baltimore, Maryland  
+🎙️ _Feeling the Stakes: Contextual Realism in Human-Machine Studies for Surgery_  
+🏆 Audience Choice Award 1st Place
+<img src="/images/SueMinCho_DSAI2025.png" alt="DSAI End of Semester Social 2025" width="600"/>
+
+---
+
 ## Invited Talk @ Applications of Medical AI (AMAI) Workshop – MICCAI 2024
 
 📍 Marrakech, Morocco  
