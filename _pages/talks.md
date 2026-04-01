@@ -5,6 +5,15 @@ permalink: /talks/
 author_profile: true
 ---
 
+## Invited Talk @ Evolving Landscape of Surgical Robotics Workshop – ICRA 2025
+
+📍 Atlanta, Georgia  
+🎙️ _Advancing Human-Machine Synergy for the Future of Surgery_  
+🏆 Rising Star Award
+<img src="/images/ICRA25ELSR.png" alt="ICRA 2025 ELSR" width="600"/>
+
+---
+
 ## Data Science and AI Institute (DSAI) End of Semester Social 2025
 
 📍 Baltimore, Maryland  
