@@ -16,7 +16,7 @@ My research has been published at international peer-reviewed journals and confe
 
 Since 2020, I have served every year as a teaching assistant or course assistant for [Computer-Integrated Surgery I (CIS I)](https://ciis.lcsr.jhu.edu/doku.php?id=courses:455-655:455-655) and [Computer-Integrated Surgery II (CIS II)](https://ciis.lcsr.jhu.edu/doku.php?id=courses:456).
 
-I deeply value inclusive learning environments and actively engage in community outreach that welcomes individuals of all ages and diverse backgrounds. In my role within ARCADE and ciis labs, I have mentored graduate, undergraduate, and high school students. If you are interested in working with me, please feel free to reach out via [email](scho72@jhu.edu). I would love to connect with you!
+I deeply value inclusive learning environments and actively engage in community outreach that welcomes individuals of all ages and diverse backgrounds. In my role within ARCADE and ciis labs, I have mentored graduate, undergraduate, and high school students. If you are interested in working with me, please feel free to reach out via email. I would love to connect with you!
 
 Much of my time is spent wondering what the future of healthcare might hold—and musing about human nature and behavior along the way. When I’m not in research-mode, I find joy in cooking, baking, and painting.
 
